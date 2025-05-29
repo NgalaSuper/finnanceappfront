@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+    .align-element {
+        @apply mx-auto max-w-6xl px-8;
+    }
+}
+#root {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    @apply font-manrope text-fontColor;
+  
+    
+}
+.focus-none:focus{
+    outline: none !important;
+   outline-color: none;
+}
+input:focus {
+    outline: none;
+}
+.custom-title{
+    font-size: 14px !important; 
+    font-weight: normal !important;
+
+}
+.custom-confirm-button {
+   
+    font-size: 12px;
+    
+
+}
+.custom-cancel-button{
+    color: #636979;
+    font-size: 12px;
+}
+
+@media print {
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  #previewInvoice {
+    width: 100%;
+    background-color: white;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  /* Hide unnecessary header and footer elements */
+  .fixed {
+    display: none !important;
+  }
+
+  /* Ensure the invoice table fits within page width */
+  .invoice-style {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  /* Style the table cells */
+  .invoice-style td, .invoice-style th {
+    border: 1px solid #ccc;
+    padding: 3px;  /* Reduced padding for better fit */
+    text-align: left;
+  }
+
+  .invoice-style th {
+    background-color: #f2f2f2;
+  }
+
+  /* Ensure images are scaled properly */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Adjust page margins and size to A4 */
+  @page {
+    size: A4;
+    margin: 5mm; /* Reduced margins */
+  }
+
+  /* Hide print title, date, and page numbers */
+  .print-title,
+  .print-date,
+  .page-number {
+    display: none !important;
+  }
+
+  /* Ensure content fits on the page */
+  #previewInvoice {
+    box-sizing: border-box;
+  }
+
+  /* Prevent page breaks inside content */
+  .invoice-style {
+    page-break-inside: avoid;
+  }
+}
+
+

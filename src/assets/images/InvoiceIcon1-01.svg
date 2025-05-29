@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.81;fill:#AEF4B5;}
+	.st1{fill:#4B2F91;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:#4D4D4D;}
+	.st4{opacity:0.12;fill:#1B1464;}
+	.st5{fill:url(#SVGID_2_);}
+	.st6{fill:#837BBC;}
+	.st7{font-family:'OpenSans-Bold';}
+	.st8{font-size:27.4267px;}
+	.st9{fill:none;stroke:#8289E8;stroke-width:2;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#8289E8;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:11.6976,11.6976;}
+	.st11{fill:#858CE8;}
+	.st12{font-size:20.1682px;}
+	.st13{opacity:0.76;fill:#5852A0;}
+	.st14{font-size:22.8542px;}
+	.st15{fill:none;stroke:#837BBC;stroke-width:6;stroke-miterlimit:10;}
+</style>
+<g id="BACKGROUND">
+</g>
+<g id="OBJECTS">
+	<g>
+		<circle class="st0" cx="250" cy="244" r="234"/>
+		<path class="st1" d="M175.1,150.35c0-18.05-14.63-32.68-32.68-32.68h0c-18.05,0-32.68,14.63-32.68,32.68v95.34L81.9,278.32
+			l92.41-0.29l0.79-32.35V150.35z"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="187.8327" y1="14.3108" x2="187.8327" y2="341.8726">
+			<stop  offset="0" style="stop-color:#ECEAF4"/>
+			<stop  offset="0.1352" style="stop-color:#E3E1F0"/>
+			<stop  offset="0.3592" style="stop-color:#CAC7E4"/>
+			<stop  offset="0.5674" style="stop-color:#AEAAD7"/>
+			<stop  offset="0.8652" style="stop-color:#847CBE"/>
+			<stop  offset="0.9944" style="stop-color:#696397"/>
+		</linearGradient>
+		<path class="st2" d="M321,117.67V65.49c0-1.98-1.61-3.59-3.59-3.59H58.68c-1.97,0-3.58,1.59-3.59,3.56
+			c-0.11,21.39-0.73,132.26-0.25,184.9c0.02,2.07,0.26,4.13,0.73,6.15c0.46,1.96,1.12,3.87,1.99,5.69c0.85,1.79,1.89,3.49,3.1,5.06
+			c1.2,1.56,2.56,3,4.06,4.28c1.5,1.28,3.14,2.41,4.87,3.36c1.76,0.96,3.62,1.73,5.54,2.29c2.27,0.67,4.64,1.07,7,1.15
+			c2.2,0.08,4.41-0.1,6.57-0.54c1.94-0.39,3.85-0.99,5.67-1.79c1.79-0.78,3.49-1.75,5.08-2.88c1.58-1.12,3.04-2.41,4.36-3.83
+			c1.32-1.42,2.49-2.98,3.49-4.64c1.01-1.68,1.85-3.46,2.49-5.31c0.66-1.89,1.11-3.86,1.34-5.85c0.13-1.13,0.2-2.26,0.2-3.39v-4.41
+			v-94.56c0-17.72,13.78-32.81,31.49-33.44c18.59-0.66,33.87,14.21,33.87,32.66"/>
+		<path class="st4" d="M158.92,245.69l0.79-95.34c0-18.05,3.42-32.68-14.63-32.68h215.87c24.65,0,44.63,19.98,44.63,44.63v136.47
+			c0,66.16-12.23,127.56,45.45,191.23h-2.29h-247.8c-42.52-32.54-42.02-83.02-42.02-136.56V245.69z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="304.4217" y1="274.3327" x2="304.4217" y2="743.8126">
+			<stop  offset="0" style="stop-color:#ECEAF4"/>
+			<stop  offset="0.1352" style="stop-color:#E3E1F0"/>
+			<stop  offset="0.3592" style="stop-color:#CAC7E4"/>
+			<stop  offset="0.5674" style="stop-color:#AEAAD7"/>
+			<stop  offset="0.8652" style="stop-color:#847CBE"/>
+			<stop  offset="0.9944" style="stop-color:#696397"/>
+		</linearGradient>
+		<path class="st5" d="M420.97,298.77V162.3c0-24.65-19.98-44.63-44.63-44.63H142.42c18.05,0,32.68,14.63,32.68,32.68l-0.79,95.34
+			v107.75c0,53.54-0.5,104.03,42.02,136.56h247.8h2.29C408.74,426.33,420.97,364.93,420.97,298.77z"/>
+		<g>
+			<text transform="matrix(1 0 0 1 206.0098 212.4043)" class="st6 st7 st8">YOUR RECEIPT</text>
+			<g>
+				<g>
+					<line class="st9" x1="216.27" y1="391.65" x2="222.27" y2="391.65"/>
+					<line class="st10" x1="233.96" y1="391.65" x2="391.88" y2="391.65"/>
+					<line class="st9" x1="397.73" y1="391.65" x2="403.73" y2="391.65"/>
+				</g>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 213.1035 257.5967)" class="st11 st7 st12">ITEM 1</text>
+				<text transform="matrix(1 0 0 1 332.8418 257.5967)" class="st11 st7 st12">$20.00</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 213.1035 290.2578)" class="st11 st7 st12">ITEM 1</text>
+				<text transform="matrix(1 0 0 1 332.8418 290.2578)" class="st11 st7 st12">$20.00</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 213.1035 321.1797)" class="st11 st7 st12">ITEM 1</text>
+				<text transform="matrix(1 0 0 1 332.8418 321.1797)" class="st11 st7 st12">$20.00</text>
+			</g>
+			<text transform="matrix(1 0 0 1 259.6504 443.0488)" class="st13 st7 st14">TOTAL: 00.00</text>
+			<line class="st15" x1="203.66" y1="349.05" x2="406.06" y2="349.05"/>
+			<line class="st15" x1="203.66" y1="372.92" x2="406.06" y2="372.92"/>
+		</g>
+	</g>
+</g>
+<g id="DESIGNEDBYFREEPIK">
+</g>
+</svg>
