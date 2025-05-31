@@ -27,7 +27,7 @@ const SignUp = () => {
     formData.append("image", image); // Make sure you append the file
   
     try {
-      const response = await axios.post("http://localhost:5000/register", formData, {
+      const response = await axios.post(`${API_BASE_URL}/register`, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },

@@ -34,7 +34,7 @@ const handleCompanyDetailsChange = (companyData) => {
 
 const fetchInvoices = async() => {
   try {
-    const invoices = await axios.get('http://localhost:5000/getInvoicesCompany');
+    const invoices = await axios.get(`${API_BASE_URL}/getInvoicesCompany`);
     setInvoice(invoices)
   } catch(error) {
     console.error(error);
