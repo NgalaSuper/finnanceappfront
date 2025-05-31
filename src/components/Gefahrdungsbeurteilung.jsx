@@ -4,6 +4,7 @@ import {  updateGefahrdungsbeurteilungtById } from "../data/data";
 import CardInvoiceForm from './CardInvoiceForm';
 import PreviewCardForm from './PreviewCardForm';
 import {toast} from 'sonner';
+import { API_BASE_URL } from "../data/data";
 
 const EditGuschrift = ({companies, mode}) => {
   const { id } = useParams();

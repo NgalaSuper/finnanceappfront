@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-
+import { API_BASE_URL } from "../data/data";
 const SignUp = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
