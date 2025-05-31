@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Set a base URL for your API
-export const API_BASE_URL = 'http://https://financeapp-98oq.onrender.com/';
+export const API_BASE_URL = 'https://financeapp-98oq.onrender.com/';
 
 // Fetch all invoices
 export const fetchInvoices = async () => {
